@@ -1,4 +1,4 @@
-# Cubethon Game
+# Cubethon Game ![Open Source Love png3](https://badges.frapsoft.com/os/v3/open-source.png?v=103)
 
 This was my first game 🎲 made using unity. I this game you have to reach the end without getting touched with any obstacle 🚫.
 
